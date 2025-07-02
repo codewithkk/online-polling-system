@@ -209,16 +209,7 @@ Content-Type: application/json
 - Clear node_modules: `rm -rf node_modules && npm install`
 - Update dependencies: `npm update`
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Vite for the fast build tool
-- Tailwind CSS for the utility-first styling approach
-- MongoDB for the flexible database solution
 
 ## 📞 Support
 
